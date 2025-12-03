@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Test output
+reports/
+*.json
+!package.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Data
+data/repos/
+*.zip
+*.tar.gz
+
+# Foundry
+v4_foundry_test/lib/
+v4_foundry_test/cache/
+v4_foundry_test/out/
+v4_foundry_test/broadcast/
+
+# OS
+.DS_Store
+Thumbs.db
